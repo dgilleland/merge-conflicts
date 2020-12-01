@@ -3,7 +3,9 @@ _site
 .DS_Store
 _vendor
 
-
+# A special folder where I keep files I don't want in my source control
+[Nn]o[Tt]rack/
+[Rr]n[Dd]/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio
