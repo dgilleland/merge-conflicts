@@ -1,12 +1,4 @@
-﻿using System;
+using System;
 
-namespace DemoApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+// Much better! This will actually run!!!
+Console.WriteLine("Hello World!");
