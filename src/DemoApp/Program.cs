@@ -1,12 +1,5 @@
-﻿using System;
+using System;
 
-namespace DemoApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Dan!");
-        }
-    }
-}
+// Much better! This will actually run!!!
+Console.WriteLine("Hello Dan!");
+Console.WriteLine("Yes, this is much better!");
